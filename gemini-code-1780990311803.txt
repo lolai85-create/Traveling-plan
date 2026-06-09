@@ -1,0 +1,4 @@
+├── index.html          (網頁主畫面與邏輯)
+├── manifest.json       (PWA 設定檔)
+├── sw.js               (Service Worker 離線快取腳本)
+└── icon.png            (應用的圖示，請準備一張 512x512 的圖片)
